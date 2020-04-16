@@ -6,10 +6,10 @@ This repository demonstrates how to use the Temporal Logistic Neural BoF method 
 If you use this code in your work please cite the following paper:
 
 <pre>
-@inproceedings{neural-bof-eeg,
+@article{temporal-bof,
         title       = "Temporal Logistic Neural Bag-of-Features for Financial Time series Forecasting leveraging Limit Order Book Data",
 	author      = "Passalis, Nikolaos and Tefas, Anastasios and Kanniainen, Juho and Gabbouj, Moncef and Iosifidis, Alexandros",
-	booktitle   = "Pre-print submitted to Pattern Recognition Letters",
+	journal   = "Pre-print submitted to Pattern Recognition Letters",
 	
 }
 </pre>
